@@ -1,0 +1,5 @@
+com\manifestcorp\Poker.class
+com\manifestcorp\Rank.class
+com\manifestcorp\Hand.class
+com\manifestcorp\Card.class
+com\manifestcorp\Suit.class
